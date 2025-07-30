@@ -1,0 +1,3 @@
+echo " 422 mkdir Project-Navigator 423 git clone https://github.com/DiketsoS/Project_Navigator.git 424 cd Project-Navigator 425 touch index.txt 426 nano index.txt 427 chmod +x index.txt 428 ./index.txt 429 git init 
+  430 git add . 431 git commit -m "Project-Navigator" 432 git status 433 git push origin master 434 git remote add https://github.com/DiketsoS/Project_Navigator.git 435 git remote add origin 
+  https://github.com/DiketsoS/Project_Navigator.git 436 git push origin master 437 touch history.txt 438 history"
